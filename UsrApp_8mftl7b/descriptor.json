@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "ab507dfd-7655-44a5-866c-ddb5722c0b22",
+    "Name": "UsrApp_8mftl7b",
+    "Type": 1,
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/UsrApp_8mftl7b.csproj",
+    "DependsOn": []
+  }
+}
